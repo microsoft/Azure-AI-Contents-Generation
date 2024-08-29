@@ -1,0 +1,16 @@
+azure-search-documents==11.6.0b4
+openai
+python-dotenv
+azure-identity
+cohere
+azure-ai-vision-imageanalysis
+azure-storage-blob
+opencv-python
+pandas
+azure-ai-documentintelligence
+pillow
+PyMuPDF
+python-docx
+beautifulsoup4
+requests
+html5lib
